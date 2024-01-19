@@ -12,6 +12,7 @@ public class fungsi {
         Namaku.Indah("Ujang");
 
         namaImport.Beauty("Rangga ");
+        namaImport.Beauty("Jangan Gitu");
 
         tambah(x,y);
         tambah(x,z);
